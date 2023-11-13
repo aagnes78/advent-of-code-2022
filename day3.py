@@ -7,10 +7,10 @@ Task:
 What is the sum of the priorities of items in both compartments of rucksacks?
 
 For full description see:
-https://adventofcode.com/2022/day/2
+https://adventofcode.com/2022/day/3
 
 Input file available at:
-https://adventofcode.com/2022/day/2/input
+https://adventofcode.com/2022/day/3/input
 """
 
 def find_common_char(str1, str2):
